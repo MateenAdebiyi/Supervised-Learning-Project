@@ -8,3 +8,6 @@ The following link provides access to a synthetic dataset for training:
 
 The original dataset is available on Kaggle, and you can download it using this link:
 [Lung_dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+
+Please check these two files:
+Another_copy_of_supervised_fake_
